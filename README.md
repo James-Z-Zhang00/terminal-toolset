@@ -1,6 +1,6 @@
 # terminal-toolset
 
-My personal developed terminal tools for Bash/Zsh
+For Bash/Zsh
 
 ### List
 1. `zsh_alias.sh` - some command shortcuts, including basic directory change, opening apps and folders
